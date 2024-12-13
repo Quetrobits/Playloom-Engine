@@ -24,7 +24,7 @@
    - Clone the repository or download the latest release from the [Releases](https://github.com/PlayloomInteractive/PlayloomEngine/releases) section.
 
 2. **Setup and Installation**  
-   - Follow the [setup guide](wiki/Setup-Guide) to install dependencies and get the engine running on your machine.
+   - Follow the [setup guide](https://github.com/Quetrobits/Playloom-Engine/wiki/Setup%E2%80%90Guide) to install dependencies and get the engine running on your machine.
 
 3. **Create Your First Project**  
    - Once installed, open Playloom Engine and create a new project using the provided templates. You can choose between 2D or 3D project types to suit your needs.

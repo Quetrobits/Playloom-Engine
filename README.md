@@ -21,7 +21,7 @@
 ## Getting Started
 
 1. **Download Playloom Engine**  
-   - Clone the repository or download the latest release from the [Releases](https://github.com/PlayloomInteractive/PlayloomEngine/releases) section.
+   - Clone the repository or download the latest release from the [Releases](https://github.com/Quetrobits/Playloom-Engine/releases) section.
 
 2. **Setup and Installation**  
    - Follow the [setup guide](https://github.com/Quetrobits/Playloom-Engine/wiki/Setup%E2%80%90Guide) to install dependencies and get the engine running on your machine.

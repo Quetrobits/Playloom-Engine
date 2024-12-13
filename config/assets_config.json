@@ -1,0 +1,21 @@
+{
+    "textures": {
+      "compression_quality": 85,
+      "resize_to_max_dimension": 1024,
+      "allowed_formats": ["png", "jpg"]
+    },
+    "models": {
+      "allowed_formats": ["fbx", "obj"],
+      "auto_scale": true,
+      "default_scale_factor": 1.0
+    },
+    "audio": {
+      "sample_rate": 44100,
+      "channels": 2,
+      "compression": "ogg"
+    },
+    "shaders": {
+      "supported_formats": ["vert", "frag"],
+      "optimize": true
+    }
+  }  

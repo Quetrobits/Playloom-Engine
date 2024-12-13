@@ -1,0 +1,10 @@
+{
+    "source_dir": "src",
+    "output_dir": "build_output",
+    "compiler": "g++",
+    "compiler_flags": ["-O2", "-Wall"],
+    "asset_dir": "assets",
+    "deploy_dir": "deploy",
+    "version": "1.0.0",
+    "build_type": "Release"
+  }  

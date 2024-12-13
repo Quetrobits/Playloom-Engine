@@ -1,0 +1,12 @@
+{
+    "environment": "development",
+    "debug": true,
+    "database": {
+      "host": "localhost",
+      "port": 5432,
+      "username": "dev_user",
+      "password": "dev_pass"
+    },
+    "api_base_url": "http://localhost:8000/api",
+    "logging_level": "debug"
+  }  

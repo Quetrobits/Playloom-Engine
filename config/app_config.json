@@ -1,0 +1,14 @@
+{
+    "window": {
+      "width": 1280,
+      "height": 720,
+      "fullscreen": false,
+      "vsync": true
+    },
+    "default_language": "en",
+    "audio_settings": {
+      "volume": 0.75,
+      "mute": false
+    },
+    "max_fps": 60
+  }  

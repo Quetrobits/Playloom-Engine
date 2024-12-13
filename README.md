@@ -48,4 +48,4 @@ Playloom Engine provides a comprehensive [Wiki](wiki/Home) with detailed instruc
 
 ## License
 
-Playloom Engine is licensed under the Apache-2.0 License. See the [LICENSE](LICENSE) file for more details.
+Playloom Engine is licensed under the Apache-2.0 License. See the [LICENSE](LICENSE) file for more details. 
